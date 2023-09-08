@@ -8,3 +8,6 @@
 
 ## Activity 3: Merge with Conflict Command Output
 ![Merge with Conflict Command Output](images/mergeWithConflictCommandOutput.png)
+
+## Activity 4: Unit Tests
+![Unit Tests](images/unitTests.png)
