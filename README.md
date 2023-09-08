@@ -11,3 +11,6 @@
 
 ## Activity 4: Unit Tests
 ![Unit Tests](images/unitTests.png)
+
+## Activity 5: Git Rebase
+![Git Rebase](images/gitRebase.png)
