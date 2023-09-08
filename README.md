@@ -1,4 +1,4 @@
-# Jessica He
+# Jessica He 💫
 
 ## Activity 1: README Commit Screenshot
 ![README Commit Screenshot](images/readmeCommitScreenshot.png)
